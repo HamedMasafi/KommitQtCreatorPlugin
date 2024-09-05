@@ -1,0 +1,9 @@
+#pragma once
+
+#include <qglobal.h>
+
+#if defined(KOMMITQTCREATORPLUGIN_LIBRARY)
+#define KOMMITQTCREATORPLUGIN_EXPORT Q_DECL_EXPORT
+#else
+#define KOMMITQTCREATORPLUGIN_EXPORT Q_DECL_IMPORT
+#endif

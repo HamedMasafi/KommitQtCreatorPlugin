@@ -1,0 +1,3 @@
+[submodule "3rdparty/kommit"]
+	path = 3rdparty/kommit
+	url = https://invent.kde.org/sdk/kommit.git

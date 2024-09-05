@@ -1,0 +1,13 @@
+{
+    "Id": "kommit",
+    "Name" : "Kommit",
+    "Version" : "0.0.1",
+    "CompatVersion" : "0.0.1",
+    "VendorId" : "kde",
+    "Vendor" : "KDE",
+    "Copyright" : "2024 (C) KDE",
+    "License" : "LGPL-3",
+    "Description" : "Kommit git support",
+    "Url" : "https://www.kde.com",
+    ${IDE_PLUGIN_DEPENDENCIES}
+}
